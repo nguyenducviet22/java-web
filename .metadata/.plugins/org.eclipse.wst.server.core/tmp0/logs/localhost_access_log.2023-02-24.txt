@@ -1,0 +1,14 @@
+127.0.0.1 - - [24/Feb/2023:10:57:01 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:10:57:03 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11078
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:10:57:04 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:06:50 +0700] "GET /FashionWeb/view/NewFile.jsp HTTP/1.1" 200 275
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:11:55 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 12173
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:12:41 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 12090
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:12:57 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11919
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:13:00 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11919
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:16:06 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11827
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:16:16 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11827
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:18:43 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11837
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:19:04 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11837
+127.0.0.1 - - [24/Feb/2023:11:22:31 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:11:22:32 +0700] "GET /FashionWeb/view/home.jsp HTTP/1.1" 200 11078

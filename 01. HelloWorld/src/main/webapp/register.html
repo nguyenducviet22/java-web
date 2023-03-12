@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Register</title>
+</head>
+<body>
+<h1>Register</h1>
+<table>
+	<tbody>
+		<tr><td colspan="2"><b>Register information</b></td></tr>
+		<tr>
+			<td>Email:</td>
+			<td><input type="email" name="email" id="idEmail"></td>
+		</tr>
+		<tr>
+			<td>Password:</td>
+			<td><input type="password" name="password" id="idPassword"></td>
+		</tr>
+		<tr>
+			<td>Re-password:</td>
+			<td><input type="password" name="re-password" id="id-Re-password"></td>
+		</tr>
+		<tr><td colspan="2"><b>Personal information</b></td></tr>
+		<tr>
+			<td>Full name:</td>
+			<td><input type="text" name="fullName" id="idFullName"></td>
+		</tr>
+		<tr>
+			<td>Gender:</td>
+			<td>
+				<input type="radio" name="gender" id="idGenderM" value="M">
+				<label for="idGenderM">Male</label>
+				<input type="radio" name="gender" id="idGenderF" value="F">
+				<label for="idGenderF">Female</label>
+			</td>
+		</tr>
+		<tr>
+			<td>Date of birth:</td>
+			<td><input type="date" name="dateOfBirth" id="idDateOfBirth"></td>
+		</tr>
+		<tr>
+			<td>Phone number:</td>
+			<td><input type="tel" name="phoneNumber" id="idPhoneNumber"></td>
+		</tr>
+		<tr><td colspan="2"><b>Address:</b></td></tr>
+		<tr>
+			<td>Nation:</td>
+			<td>
+				<select name="nation" id="idNation">
+					<option value="VN">Vietnam</option>
+					<option value="CN">China</option>
+					<option value="US">USA</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td>City/province:</td>
+			<td>
+				<select name="city" id="idCity">
+					<option value="HCMC">HCMC</option>
+					<option value="HN">HN</option>
+					<option value="HT">HT</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td>District:</td>
+			<td>
+				<select name="district" id="idDistrict">
+					<option value="PG">PG</option>
+					<option value="BC">BC</option>
+					<option value="TDM">TDM</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td>Address:</td>
+			<td>
+				<textarea rows="5" cols="" name="address" id="idAddress"></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td>Hobbies:</td>
+			<td>
+				<input type="checkbox" name="hobbies" id="idReading">
+				<label for="idReading">Reading</label>
+				<input type="checkbox" name="hobbies" id="idSwimming">
+				<label for="idSwimming">Swimming</label>
+				<input type="checkbox" name="hobbies" id="idRunning">
+				<label for="idRunning">Running</label>
+			</td>
+		</tr>
+		<tr>
+			<td>Image:</td>
+			<td>
+				<input type="image" name="image" id="idImage">
+			</td>
+		</tr>
+		<tr>
+			<td>File:</td>
+			<td>
+				<input type="file" name="file" id="idFile">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<input type="submit" value="Submit">
+				<input type="reset" value="Reset">
+			</td>
+		</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>

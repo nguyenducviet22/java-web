@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>BT2</title>
+</head>
+<body>
+	<div id="myDiv">First Content</div>
+	<input type="button" id="change" value="change" onchange="changeText()">
+
+	<script>
+		//#1
+		change.onclick = function() {
+			var myDiv = document.getElementById("myDiv");
+			myDiv.innerHTML = "The first content has changed";
+		}
+		//#2 do not run :((
+		//function changeText(){
+			//var myDiv = document.getElementById("myDiv");
+			//myDiv.innerHTML = "The first content has changed";
+		//}
+		
+	</script>
+</body>
+</html>

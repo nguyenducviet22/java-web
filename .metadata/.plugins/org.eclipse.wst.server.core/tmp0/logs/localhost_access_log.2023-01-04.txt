@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/Jan/2023:10:27:23 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/index.html HTTP/1.1" 200 7303
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/image/galaxy.png HTTP/1.1" 404 789
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/image/slider/Design1.png HTTP/1.1" 200 263745
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/image/slider/Design2.png HTTP/1.1" 200 129752
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/image/product/3.png HTTP/1.1" 200 166534
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/image/slider/Design.png HTTP/1.1" 200 224112
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/image/product/2.png HTTP/1.1" 200 283429
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:24 +0700] "GET /26._BookStore/image/product/1.png HTTP/1.1" 200 237626
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:10:27:25 +0700] "GET /favicon.ico HTTP/1.1" 404 762

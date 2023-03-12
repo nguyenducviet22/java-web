@@ -1,0 +1,14 @@
+127.0.0.1 - - [30/Jan/2023:17:17:14 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:17:14 +0700] "GET /FashionWeb/index.html HTTP/1.1" 200 37990
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:17:19 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [30/Jan/2023:17:20:31 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:20:32 +0700] "GET /FashionWeb/index.html HTTP/1.1" 200 38048
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:20:32 +0700] "GET /FashionWeb/index.css HTTP/1.1" 200 357
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:22:22 +0700] "GET /FashionWeb/index.html HTTP/1.1" 200 38079
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:22:22 +0700] "GET /FashionWeb/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:23:46 +0700] "GET /FashionWeb/index.html HTTP/1.1" 200 39759
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:23:46 +0700] "GET /FashionWeb/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:24:28 +0700] "GET /FashionWeb/index.html HTTP/1.1" 200 39760
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:24:28 +0700] "GET /FashionWeb/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:25:14 +0700] "GET /FashionWeb/index.html HTTP/1.1" 200 39728
+0:0:0:0:0:0:0:1 - - [30/Jan/2023:17:25:14 +0700] "GET /FashionWeb/index.css HTTP/1.1" 304 -

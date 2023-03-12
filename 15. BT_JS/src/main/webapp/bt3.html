@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>BT3</title>
+</head>
+<body>
+	<div style="background-color: red;" id="myDiv"
+		onmouseover="changeColorGreen()" onmouseleave="changeColorRed()">
+		Watching movies is an exciting way to spend one’s time, but for many
+		of us, it doesn’t end there. Movie characters and their actions can
+		inspire us, make us think about important things, and even reconsider
+		our life choices. Strong, wise, and kind characters that can serve as
+		role models are one of the reasons why we re-watch our favorite movies
+		again and again.
+		<hr>
+		Movie lovers went to Ranker to vote for the female characters that
+		inspire them the most, and here are the heroines who made it to the
+		top 30. The winner surprised us, to be honest. What about you?
+	</div>
+
+	<script>
+		function changeColorGreen() {
+			var myDiv = document.getElementById("myDiv");
+			myDiv.style = "background-color: green;"
+		}
+		function changeColorRed() {
+			var myDiv = document.getElementById("myDiv");
+			myDiv.style = "background-color: red;"
+		}
+	</script>
+</body>
+</html>

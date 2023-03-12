@@ -1,0 +1,42 @@
+public int update(TacGia t) {
+		int ketQua = 0;
+		try {
+			// Bước 1: tạo kết nối đến CSDL
+			Connection con = JDBCUtil.getConnection();
+			
+			// Bước 2: tạo ra đối tượng statement
+			String sql = "UPDATE tacgia "+
+					 " SET " +
+					 " hovaten=?"+
+					 ", ngaysinh=?"+
+					 ", tieusu=?"+
+					 " WHERE matacgia=?";
+			
+			PreparedStatement st = con.prepareStatement(sql);
+			st.setString(1, t.getHoVaTen());
+			st.setDate(2, t.getNgaySinh());
+			st.setString(3, t.getTieuSu());
+			st.setString(4, t.getMaTacGia());
+			
+			// Bước 3: thực thi câu lệnh SQL
+			System.out.println(sql);
+			ketQua = st.executeUpdate();
+			
+			// Bước 4:
+			System.out.println("Bạn đã thực thi: "+ sql);
+			System.out.println("Có "+ ketQua+" dòng bị thay đổi!");
+			
+			// Bước 5:
+			JDBCUtil.closeConnection(con);
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return ketQua;
+		
+		TacGia tg = tgd.selectById(new TacGia("TG1", "", null, ""));
+		System.out.println(tg);
+		tg.setTieuSu("TIỂU SỬ ĐÃ BỊ THAY ĐỔI");
+		tgd.update(tg);
+	}

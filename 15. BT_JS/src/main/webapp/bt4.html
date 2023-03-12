@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>BT4</title>
+</head>
+<body>
+	<div style="background-color: red;" id="myDiv">
+		Watching movies is an exciting way to spend one’s time, but for many
+		of us, it doesn’t end there. Movie characters and their actions can
+		inspire us, make us think about important things, and even reconsider
+		our life choices. Strong, wise, and kind characters that can serve as
+		role models are one of the reasons why we re-watch our favorite movies
+		again and again.
+		<hr>
+		Movie lovers went to Ranker to vote for the female characters that
+		inspire them the most, and here are the heroines who made it to the
+		top 30. The winner surprised us, to be honest. What about you?
+	</div>
+	<button onclick="hideDiv()" id="myBtn">Hide</button>
+
+	<script>
+		var check = "hide";
+		function hideDiv() {
+			var myDiv = document.getElementById("myDiv");
+			if (check == "hide") {
+				myDiv.style = "display: none";
+				check = "show";
+				myBtn.innerHTML = "Show";//change name of btn from "Hide" to "Show"
+			} else {
+				myDiv.style.display = "block"; //same the top line code
+				check = "hide";
+				myBtn.innerHTML = "Hide";//change name of btn from "Show" to "Hide"
+			}
+		}
+	</script>
+</body>
+</html>

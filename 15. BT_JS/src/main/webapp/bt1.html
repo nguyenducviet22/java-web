@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>BT1</title>
+<script language="Javascript">
+	function changeText() {
+		var idName = document.getElementById("idName");
+		var idOutput = document.getElementById("idOutput");
+
+		idOutput.innerHTML = "Hello " + idName.value;
+	}
+</script>
+</head>
+<body>
+	Enter your name:
+	<input type="text" name="name" id="idName" onkeypress="changeText()"
+		onchange="changeText()">
+	<!-- <input type="text" name="name" id="idName" onkeypress="changeText()"> -->
+	<p id="idOutput">Hello</p>
+
+</body>
+</html>

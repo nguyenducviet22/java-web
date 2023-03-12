@@ -1,0 +1,95 @@
+INDEX VERSION 1.131
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3325750508.index
+\41. UploadFile\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3784131047.index
+\23. Catch_error_with_Regular_Expression\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3652785023.index
+\36.  CombineController2\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3325750508.index
+\41. UploadFile\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4055145731.index
+\36.  CombineController\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2483348407.index
+\39. IdentificationEmail\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\354709732.index
+\24. Catch_error_403_404_500\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\354709732.index
+\24. Catch_error_403_404_500\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3810381067.index
+\38. SendEmail\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3304075505.index
+\34. Change_password\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3902279156.index
+\32. MVC_SignIn_SignOut\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1723676280.index
+\24. catch_error_403_404_500\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2807530752.index
+\FashionWebTest\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2558259729.index
+\25. BT_Sessoin\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1664255872.index
+\42. UploadFile\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2558259729.index
+\25. BT_Sessoin\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4287636296.index
+\37. LayoutWeb\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3285007832.index
+\39. VerifyEmail\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\592758527.index
+\FashionWeb\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2727423648.index
+\35.  Change_infoCus\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3134827955.index
+\39. VerifyEmail\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3304075505.index
+\34. Change_password\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3746485570.index
+\31. MVC\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\773185036.index
+\39. VerifyEmail\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3784131047.index
+\23. Catch_error_with_Regular_Expression\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1911550448.index
+\34. Change_info&password\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3701850655.index
+\22. BT_ChuyenTiepData_BatLoi\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3134827955.index
+\39. VerifyEmail\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4218951762.index
+\FashionWeb\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3701850655.index
+\22. BT_ChuyenTiepData_BatLoi\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3810381067.index
+\38. SendEmail\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3233453350.index
+\FashionWeb\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3902279156.index
+\32. MVC_SignIn_SignOut\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3746485570.index
+\31. MVC\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1299371414.index
+\33. Encoding\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3993553443.index
+\24. Catch_error_403_404_500\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2305135631.index
+\24. catch_error_403_404_500\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3784800966.index
+\21. BT_Servlet\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4287636296.index
+\37. LayoutWeb\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3383676302.index
+\FashionWebTest\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1299371414.index
+\33. Encoding\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3784800966.index
+\21. BT_Servlet\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2011015026.index
+\32. MVC_LogIn\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace 4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3993553443.index
+\24. Catch_error_403_404_500\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2727423648.index
+\35.  Change_infoCus\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4055145731.index
+\36.  CombineController\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3233453350.index
+\FashionWeb\src\main\java
